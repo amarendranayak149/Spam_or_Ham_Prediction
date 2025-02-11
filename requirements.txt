@@ -1,12 +1,1 @@
-streamlit
-numpy
-pandas
 scikit-learn
-train_test_split
-CountVectorizer
-LogisticRegression
-MultinomialNB
-KNeighborsClassifier
-DecisionTreeClassifier
-SVC
-accuracy_score
