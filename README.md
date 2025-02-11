@@ -71,6 +71,11 @@ Ensure you have the following installed:
 ## Conclusion
 This project demonstrates how NLP techniques and machine learning models can effectively classify spam messages. By implementing advanced feature engineering and tuning the models, the accuracy of spam detection can be further improved.
 
----
+## Support
+For questions or further details, please contact Amarendra Nayak at toamarendranayak@gmail.com.
+
 **Author**: Amarendra Nayak
+---
+
+
 
